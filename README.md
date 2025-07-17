@@ -7,6 +7,7 @@ This repository contains materials for creating a game:
 
 <br />
 - - - 
+
 ### Examples:
 
 <div align="center" width="100%">
