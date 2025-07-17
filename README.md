@@ -7,7 +7,7 @@ This repository contains materials for creating a game:
 
 -----
 
-### Examples:
+Examples:
 
 <div align="center" width="100%">
     <img width="45%" src="/Materials/Screenshots/1.png" />
