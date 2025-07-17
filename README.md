@@ -1,9 +1,9 @@
 ## Game Creation Kit
 
 This repository contains materials for creating a game: 
-- sounds
-- sprites
-- product packaging examples
+- sounds 🎵
+- sprites 💾
+- product packaging examples 
 
 <br />
 <div align="center" width="100%">
