@@ -6,8 +6,7 @@ This repository contains materials for creating a game:
 - product packaging examples 
 
 <br />
-___
-
+- - - 
 ### Examples:
 
 <div align="center" width="100%">
