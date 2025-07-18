@@ -7,7 +7,7 @@
 
 -----
 
-Примеры:
+Примеры игры:
 
 <div align="center" width="100%">
     <img width="45%" src="/materials/screenshots/1.png" />
