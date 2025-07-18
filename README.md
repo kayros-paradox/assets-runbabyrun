@@ -7,7 +7,7 @@ This repository contains materials for creating a game:
 
 ## License
 
-<p>Copyright (c) 2022-2025 Vugar Kerimov</p>
+<p>Copyright (c) 2022-2025</p>
 <p><b>«Unlimited free use»</b></p>
 
 -----
