@@ -7,6 +7,8 @@ This repository contains materials for creating a game:
 
 -----
 
+License: unlimited free use
+
 Examples of the game:
 
 <div align="center" width="100%">
