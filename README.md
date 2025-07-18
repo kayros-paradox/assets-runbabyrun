@@ -5,9 +5,12 @@ This repository contains materials for creating a game:
 - sprites 💾
 - product packaging examples 
 
------
+## License
 
-License: unlimited free use
+Copyright (c) 2022-2025 Vugar Kerimov
+Unlimited free use
+
+-----
 
 Examples of the game:
 
